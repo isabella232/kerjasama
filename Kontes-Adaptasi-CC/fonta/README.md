@@ -1,6 +1,11 @@
 # Cara install fonta
 
-## openSUSE/Fedora/Centos/RedHat
+## openSUSE
+```
+$ sudo zypper install adobe-source-sans-pro-fonts
+```
+
+## Fedora/Centos/RedHat
 ```
 $ sudo dnf install adobe-source-sans-pro-fonts
 ```
