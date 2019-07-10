@@ -19,5 +19,6 @@ sudo pacman -S install adobe-source-sans-pro-fonts
 ```
 ## Windows
 * Klik **[DOWNLOAD](https://www.github.com/gimpscape/kerjasama/blob/master/Kontes-Adaptasi-CC/fonta/source-sans-pro-otf.zip)**
+* Kemudian ekstrak zip.
 * Kemudian, pilih semua fonta.
 * Klik kanan, Pilih "Install Font"
