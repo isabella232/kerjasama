@@ -534,8 +534,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="221.41695"
-     inkscape:cy="93.537337"
+     inkscape:cx="316.88315"
+     inkscape:cy="141.68301"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -574,7 +574,9 @@
      transform="translate(-44.535458,-231.62623)">
     <g
        id="g5138"
-       style="fill:#143643;fill-opacity:1">
+       style="fill:#143643;fill-opacity:1"
+       inkscape:export-xdpi="316"
+       inkscape:export-ydpi="316">
       <g
          style="fill:#143643;fill-opacity:1"
          transform="translate(0,4.209498)"
@@ -774,8 +776,7 @@
        width="180.8934"
        mask="url(#mask5284)"
        clip-path="url(#clipPath5301)"
-       style="opacity:0.188;fill-opacity:1;fill:url(#linearGradient1195)"
-       transform="translate(15.119048)" />
+       style="opacity:0.18800001;fill:url(#linearGradient1195);fill-opacity:1" />
     <ellipse
        style="opacity:1;fill:url(#linearGradient1483);fill-opacity:1;stroke:none;stroke-width:0.18020101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path5816"
@@ -1044,52 +1045,52 @@
          id="tspan5798">Wacom, dab!</tspan></text>
     <g
        id="g3620"
-       transform="translate(0,6.2560532)"
+       transform="translate(4.1577381,6.2560532)"
        style="fill:#d2d5d8;fill-opacity:1">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,43.332745,228.86782)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#d2d5d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#d2d5d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="flowRoot3286"
          xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
            id="flowRegion3288"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
              y="70.903"
              x="428.30469"
              height="91.923882"
              width="170.21071"
              id="rect3290" /></flowRegion><flowPara
            id="flowPara3329"
-           style="font-weight:bold;fill:#d2d5d8;fill-opacity:1;font-size:6.93333358px">Sekilas Tentang Kontes Adaptasi Karya</flowPara><flowPara
+           style="font-weight:bold;font-size:6.9333334px;fill:#d2d5d8;fill-opacity:1">Sekilas Tentang Kontes Adaptasi Karya</flowPara><flowPara
            id="flowPara3550">Kontes ini merupakan kegiatan kolaboratif antara Creative Commons Indonesia dan Gimpscape Indonesia. Luaran dari kontes ini adalah poster infografik berisi materi sosialisasi tentang panduan menggunakan karya yang berlisensi Creative Commons. Kontes ini terbuka untuk umum dan tidak dipungut biaya sama sekali.</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot3560"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:9.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#d2d5d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:9.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#d2d5d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          transform="matrix(0.26458333,0,0,0.26458333,43.616222,252.05859)"><flowRegion
            id="flowRegion3554"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:9.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:9.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"><rect
              id="rect3552"
              width="170.21071"
              height="91.923882"
              x="428.30469"
              y="70.903"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:9.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:9.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara3558"
-           style="font-weight:bold;line-height:9.33333302px;fill:#d2d5d8;fill-opacity:1;font-size:6.93333358px">Unduh Ketentuan:</flowPara><flowPara
+           style="font-weight:bold;font-size:6.9333334px;line-height:9.33333302px;fill:#d2d5d8;fill-opacity:1">Unduh Ketentuan:</flowPara><flowPara
            id="flowPara3564">https://s.id/aturan-kontes</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,43.616222,260.75196)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:8px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#d2d5d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:8px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#d2d5d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="flowRoot3591"
          xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:8px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:8px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
            id="flowRegion3585"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93333358px;line-height:8px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9333334px;line-height:8px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#d2d5d8;fill-opacity:1"
              y="70.903"
              x="428.30469"
              height="91.923882"
              width="170.21071"
              id="rect3583" /></flowRegion><flowPara
-           style="font-weight:bold;line-height:8px;fill:#d2d5d8;fill-opacity:1;font-size:6.93333358px"
+           style="font-weight:bold;font-size:6.9333334px;line-height:8px;fill:#d2d5d8;fill-opacity:1"
            id="flowPara3589">Narahubung:</flowPara><flowPara
            id="flowPara3600">Fitri - 0815-1148-8040 (WA)</flowPara><flowPara
            id="flowPara3602">Rania - @raniaamina (Telegram)</flowPara></flowRoot>    </g>
@@ -1801,5 +1802,23 @@
        d="M 226.70312 201.91406 C 230.74331 210.7772 232.72347 219.00977 233.59766 226.02344 C 233.18108 225.63852 230.06706 222.76823 229.73242 222.93555 C 229.38027 223.11144 231.89004 226.40353 233.75781 227.4375 C 235.2828 241.7836 232.22665 250.58618 233.31055 248.34375 C 233.31055 248.34375 239.38392 233.23531 232.53711 213.94922 C 232.5562 213.93446 232.56964 213.93592 232.58984 213.91797 C 233.39341 213.11437 235.53488 208.74049 234.55273 207.84766 C 233.65826 207.03449 232.2349 211.58651 231.97656 212.43945 C 230.6593 209.02945 228.9436 205.50418 226.70312 201.91406 z "
        transform="matrix(0.26458333,0,0,0.26458333,44.535458,231.62623)"
        id="path1499" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1146"
+       width="83.111313"
+       height="83.104874"
+       x="44.535458"
+       y="231.62624"
+       inkscape:export-xdpi="316"
+       inkscape:export-ydpi="316" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1148"
+       width="83.111313"
+       height="83.104874"
+       x="127.64677"
+       y="231.62624"
+       inkscape:export-xdpi="316"
+       inkscape:export-ydpi="316" />
   </g>
 </svg>
