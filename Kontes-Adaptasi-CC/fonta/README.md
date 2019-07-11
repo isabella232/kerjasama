@@ -20,7 +20,7 @@ $ mv source-sans-pro-otf ~/.fonts
 
 ## Arch/Manjaro
 ```
-sudo pacman -S install adobe-source-sans-pro-fonts
+sudo pacman -S adobe-source-sans-pro-fonts
 ```
 ## Windows
 * Klik **[DOWNLOAD](https://raw.githubusercontent.com/gimpscape/kerjasama/master/Kontes-Adaptasi-CC/fonta/source-sans-pro-otf.zip)**
